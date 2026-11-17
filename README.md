@@ -2,8 +2,8 @@
 
 An end-to-end data analysis project that looks at why employees leave a company. I generated a year's worth of synthetic HR data for 1,500 employees, deliberately made it messy the way a real HR export often is, then cleaned it and analyzed it with Python and SQL to find the biggest drivers of attrition — the same workflow I'd use for an actual company dataset.
 
-**Author:** Deepa Vishwakarma
-📧 vishwakarmadeepa04@gmail.com | 📍 Bhopal, Madhya Pradesh
+**Author:** Umesh Rajak
+📧 ur71289@gmail.com | 📍 Bhopal, Madhya Pradesh
 
 ---
 
